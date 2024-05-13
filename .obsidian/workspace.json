@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "ce7ea1e2fa1dd2e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "de707ded07e62a29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4331056d0ec6a59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Laravel/Mass Assignment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3cce4bbd6191b04a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c67a453936c226d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5d864f06b897f55",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4a466dabd6530e9e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "988af7c35961a1c5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f3dcdf0ae81280de",
+    "type": "split",
+    "children": [
+      {
+        "id": "09b575a08972b129",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c204c4f2221a90e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Laravel/Mass Assignment.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3297860caf41cc9f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Laravel/Mass Assignment.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c83e0898da57cf2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8b3ac2172c0c68fd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Laravel/Mass Assignment.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a4331056d0ec6a59",
+  "lastOpenFiles": [
+    "PHP/Untitled.md",
+    "PHP/Access Modifiers.md",
+    "PHP/Welcome.md",
+    "PHP.md",
+    "PHP",
+    "PHP/PSR-4.md",
+    "Laravel/Mass Assignment.md",
+    "PHP/Static Functions.md",
+    "Laravel/The Environment File (.env).md"
+  ]
+}
