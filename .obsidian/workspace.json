@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f23bc8e5f158e258",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laravel/Mass Assignment.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Laravel/Mass Assignment.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laravel/Mass Assignment.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -146,16 +159,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4331056d0ec6a59",
+  "active": "f23bc8e5f158e258",
   "lastOpenFiles": [
+    "Laravel/N + 1 Problem.md",
+    "Laravel/Mass Assignment.md",
+    "Untitled.md",
+    "Laravel/The Environment File (.env).md",
     "PHP/Untitled.md",
     "PHP/Access Modifiers.md",
     "PHP/Welcome.md",
     "PHP.md",
     "PHP",
     "PHP/PSR-4.md",
-    "Laravel/Mass Assignment.md",
-    "PHP/Static Functions.md",
-    "Laravel/The Environment File (.env).md"
+    "PHP/Static Functions.md"
   ]
 }
