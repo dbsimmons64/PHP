@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/CSRF.md",
+                "file": "Security/CSRF.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/import.meta.md",
+                "file": "Security/Rate Limiting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "164e9a525a27c3e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSS/Group.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/import.meta.md",
+                "file": "CSS/Group.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/import.meta.md",
+                "file": "CSS/Group.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/import.meta.md"
+                "file": "CSS/Group.md"
               }
             }
           }
@@ -183,22 +195,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0c28cb582ad239d",
+  "active": "164e9a525a27c3e7",
   "lastOpenFiles": [
-    "Laravel/Authorization.md",
-    "JavaScript/import.meta.md",
-    "JavaScript",
     "Untitled.md",
-    "Web/Rate Limiting.md",
-    "Web/Session Hijacking.md",
+    "CSS/Group.md",
+    "CSS",
+    "CSS.md",
+    "Security/Rate Limiting.md",
+    "JavaScript/import.meta.md",
+    "Laravel/Authorization.md",
+    "JavaScript",
+    "Security/Session Hijacking.md",
     "Laravel/Password Rules Class.md",
-    "Web/CSRF.md",
+    "Security/CSRF.md",
     "Laravel/Mass Assignment.md",
     "Laravel/Guarded vs Fillable.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "Laravel/Pagination.md",
-    "Web",
+    "Security",
     "PHP/Untitled.md",
     "PHP/Static Functions.md",
     "Laravel/N + 1 Problem.md",
