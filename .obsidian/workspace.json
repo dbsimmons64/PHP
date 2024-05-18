@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "16a789f300edb028",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHP/Magic Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS/Group.md",
+                "file": "PHP/Magic Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS/Group.md",
+                "file": "PHP/Magic Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS/Group.md"
+                "file": "PHP/Magic Functions.md"
               }
             }
           }
@@ -195,10 +207,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "164e9a525a27c3e7",
+  "active": "16a789f300edb028",
   "lastOpenFiles": [
-    "Untitled.md",
     "CSS/Group.md",
+    "Transaction.md",
+    "SQL",
     "CSS",
     "CSS.md",
     "Security/Rate Limiting.md",
@@ -214,7 +227,7 @@
     "Untitled 1.md",
     "Laravel/Pagination.md",
     "Security",
-    "PHP/Untitled.md",
+    "PHP/Magic Functions.md",
     "PHP/Static Functions.md",
     "Laravel/N + 1 Problem.md",
     "Laravel/The Environment File (.env).md",
